@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Appli_maison</string>
+    <string name="title_role_selection">La Maison Bluetooth</string>
+    <string name="question_role">Voulez-vous être le client ou le hub ? ?</string>
+    <string name="btn_server">LANCER LE SERVEUR</string>
+    <string name="btn_client">LANCER LE CLIENT</string>
+</resources>
